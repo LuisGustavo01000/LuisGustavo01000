@@ -22,10 +22,11 @@
 ## Contact :
 
 <div>
-  <a href="mailto:luisgustavodonascimentomarinho@gmail.com">
-    <img loading="lazy" 
-         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="mailto:luisgustavodonascimentomarinho@gmail.com"
+   title="luisgustavodonascimentomarinho@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 
   <a href="https://www.linkedin.com/in/luis-gustavo-do-nascimento-marinho-95951918a" target="_blank">
     <img loading="lazy" 
